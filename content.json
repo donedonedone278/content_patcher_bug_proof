@@ -1,0 +1,12 @@
+{
+  "Format": "2.0.1",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Hospital",
+      "Entries": {
+        "7/f Maru 1000/p Maru": "{{i18n:thisisafakekey |default={{i18n:dddtest}}}}"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "IsThisABugOrAmIBad",
+  "Author": "donedonedone",
+  "Description": "test a bug",
+  "Version": "1.0.0",
+  "UniqueID": "donedonedone.IsThisABugOrAmIBad",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
